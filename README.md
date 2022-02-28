@@ -12,7 +12,7 @@ git clone https://github.com/pauldobner/2D-Integration.git
 cd 2D-Integration
 ```
 
-Load the conda environment from the `environment.yml` file, if you haven't already in previous assignments:
+Load the conda environment from the `environment.yml` file:
 
 ```sh
 conda env create -f environment.yml
