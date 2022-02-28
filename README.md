@@ -1,5 +1,5 @@
 # 2D-Integration
-Rectangle and Trapezoidal rule for 2D Integration in python
+Rectangle and Trapezoidal rule for 2D Integration in Python with 3D Plots
 
 
 ## Usage
